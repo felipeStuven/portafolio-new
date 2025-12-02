@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background: #000;
+}
+
+.wrapper {
+    width: 100%;
+    text-align: center;
+}
+
+.portafolio-img {
+    width: 100%;
+    height: auto;
+    display: block;  /* ← NECESARIO para que no aparezca espacio extra */
+}
